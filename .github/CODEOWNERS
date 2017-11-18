@@ -1,2 +1,3 @@
 # See https://help.github.com/articles/about-codeowners/
-*.py @kanayama-ACN @iyoshizaki
+*.py @kanayama-ACN
+*.js @iyoshizaki
